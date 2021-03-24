@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.PracticeSet2" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <!-- Primary theme color of the app (sets background color of app bar) -->
+        <item name="colorPrimary">#00ff91</item>
+        <!-- Background color of buttons in the app -->
+        <item name="colorButtonNormal">#00ff99</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
